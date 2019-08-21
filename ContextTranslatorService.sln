@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextTranslatorService", "ContextTranslatorService\ContextTranslatorService.csproj", "{10FF3CBA-C5F0-4A40-BD19-BB2BBC5463FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10FF3CBA-C5F0-4A40-BD19-BB2BBC5463FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FF3CBA-C5F0-4A40-BD19-BB2BBC5463FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FF3CBA-C5F0-4A40-BD19-BB2BBC5463FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FF3CBA-C5F0-4A40-BD19-BB2BBC5463FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {963A2720-216C-4217-ABC0-C36FE640C06B}
+	EndGlobalSection
+EndGlobal
